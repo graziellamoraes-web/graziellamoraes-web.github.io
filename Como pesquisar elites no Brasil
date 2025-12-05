@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como pesquisar elites no Brasil</title>
+
+    <!-- Metadados para Google Scholar -->
+    <meta name="citation_title" content="Como pesquisar elites no Brasil">
+    <meta name="citation_author" content="Débora Thomé">
+    <meta name="citation_author" content="Matias López">
+    <meta name="citation_author" content="Graziella Moraes Silva">
+    <meta name="citation_publication_date" content="2025">
+    <meta name="citation_publisher" content="FGV Editora">
+    <meta name="citation_isbn" content="978-65-5652-417-7">
+    <meta name="citation_doi" content="10.5281/zenodo.17833954">
+    <meta name="citation_pdf_url" content="https://zenodo.org/records/17833954/files/Como%20pesquisar%20elites%20no%20Brasil.pdf">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            font-size: 28px;
+        }
+        a.pdf {
+            background: #005bbb;
+            color: white;
+            padding: 12px 18px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a.pdf:hover {
+            background: #004799;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Como pesquisar elites no Brasil</h1>
+
+<p><strong>Organizadores:</strong> Débora Thomé, Matias López, Graziella Moraes Silva</p>
+<p><strong>Editora:</strong> FGV Editora</p>
+<p><strong>Ano:</strong> 2025</p>
+<p><strong>ISBN:</strong> 978-65-5652-417-7</p>
+<p><strong>DOI:</strong> 10.5281/zenodo.17833954</p>
+
+<p>
+    <a class="pdf" href="https://zenodo.org/records/17833954/files/Como%20pesquisar%20elites%20no%20Brasil.pdf">
+        Baixar PDF completo
+    </a>
+</p>
+
+<p>
+Este livro reúne abordagens contemporâneas para o estudo das elites no Brasil,
+articulando perspectivas conceituais, metodológicas e empíricas sobre poder,
+instituições e desigualdades.
+</p>
+
+<p>
+Esta página foi configurada com metadados compatíveis com o Google Scholar,
+garantindo que a obra possa ser corretamente identificada e indexada.
+</p>
+
+</body>
+</html>
